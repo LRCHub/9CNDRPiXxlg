@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "あなたがいることで",
+  "base_artist": "Uru",
+  "createdAt": "2025-12-04T09:10:55.231529Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あなたがいることで",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/01_あなたがいることで_Uru.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "uru/uru/Uru - あなたがいることで",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/02_uru_uru_Uru_-_あなたがいることで_Uru.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あなたがいることで - Self-cover version",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/03_あなたがいることで_-_Self-cover_version_Uru.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あなたがいることで",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/04_あなたがいることで_Uru.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "あなたがいることで",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/05_あなたがいることで_Uru.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "あなたがいることで",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/06_あなたがいることで_Uru.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "あなたがいることで - Anataga Iru Kotode",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/07_あなたがいることで_-_Anataga_Iru_Kotode_Uru.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "あなたがいることで",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/08_あなたがいることで_Uru.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "あなたがいることで (Self-cover ver. )",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/09_あなたがいることで_(Self-cover_ver._)_Uru.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あなたがいることで",
+      "artist": "Uru",
+      "has_synced": false,
+      "path": "select/pl_01_あなたがいることで_Uru.txt"
+    }
+  ]
+}
